@@ -1,9 +1,6 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Julia</h1>
 
-<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
-
-
-
+<!-- <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /> -->
 <hr>
 
 ## Follow Me
@@ -43,8 +40,6 @@
 logo only
   <img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/atlassian.svg"/> 
 -->
-
-<hr>
 
 ## Stats
 
