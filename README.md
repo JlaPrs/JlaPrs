@@ -13,12 +13,13 @@
 
 <hr>
 
-## ⚡ Technologies
+## ⚡ Technologies and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-22272e?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-22272e?style=for-the-badge&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-22272e?style=for-the-badge&logo=next.js)
+![Jest](https://img.shields.io/badge/-Jest-22272e?style=for-the-badge&logo=jest)
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-22272e?style=for-the-badge&logo=Node.js) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-22272e?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-22272e?style=for-the-badge&logo=css3&logoColor=1572B6)
