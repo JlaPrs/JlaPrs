@@ -1,13 +1,18 @@
-<a href="https://app.daily.dev/jlaprs"><img src="https://api.daily.dev/devcards/v2/XuTXSiYPfvDyi0RiEwazi.png?type=default&r=e94" width="356" alt="JlaPrs's Dev Card"/></a>
-        
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/JlaPrs)](https://github.com/JlaPrs)
-[![CodePen Badge](https://img.shields.io/badge/-JlaPrs-313333?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/jlaprs "Follow on CodePen")
-
-<hr>
-
-## ⚡ Technologies and Tools
-
+<table>
+  <tr>
+    <td>
+      <a href="https://app.daily.dev/jlaprs"><img src="https://api.daily.dev/devcards/v2/XuTXSiYPfvDyi0RiEwazi.png?type=default&r=e94" width="356" alt="JlaPrs's Dev Card"/></a>
+    </td>
+      <td>
+      <a href="https://github.com/JlaPrs">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a><br>
+      <a href="https://codepen.io/jlaprs" title="Follow on CodePen">
+        <img src="https://img.shields.io/badge/-JlaPrs-313333?style=for-the-badge&logo=CodePen&logoColor=white" alt="CodePen">
+      </a><br><br>
+⚡ Technologies and Tools
+<br><br>
+              
 ![JavaScript](https://img.shields.io/badge/-JavaScript-22272e?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-22272e?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-22272e?style=for-the-badge&logo=React)
@@ -31,6 +36,12 @@
 ![Atlassian](https://img.shields.io/badge/-Atlassian-22272e?style=for-the-badge&logo=atlassian&logoColor=0052cc)
 ![Confluence](https://img.shields.io/badge/-Confluence-22272e?style=for-the-badge&logo=confluence&logoColor=0052cc)
 ![Notion](https://img.shields.io/badge/-Notion-22272e?style=for-the-badge&logo=notion)
+
+</td>
+  </tr>
+</table>
+
+<hr>
 
 <!-- 
 logo only
