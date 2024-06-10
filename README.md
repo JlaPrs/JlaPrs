@@ -1,12 +1,8 @@
-<div style="display:flex;">
-        <div>
-          <a href="https://app.daily.dev/jlaprs"><img src="https://api.daily.dev/devcards/v2/XuTXSiYPfvDyi0RiEwazi.png?type=default&r=e94" width="356" alt="JlaPrs's Dev Card"/></a>
-        </div>
+<a href="https://app.daily.dev/jlaprs"><img src="https://api.daily.dev/devcards/v2/XuTXSiYPfvDyi0RiEwazi.png?type=default&r=e94" width="356" alt="JlaPrs's Dev Card"/></a>
+        
 
-          [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/JlaPrs)](https://github.com/JlaPrs)
-          [![CodePen Badge](https://img.shields.io/badge/-JlaPrs-313333?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/jlaprs "Follow on CodePen")
-
-      </div>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/JlaPrs)](https://github.com/JlaPrs)
+[![CodePen Badge](https://img.shields.io/badge/-JlaPrs-313333?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/jlaprs "Follow on CodePen")
 
 <hr>
 
