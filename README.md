@@ -1,6 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Julia</h1>
 
 <!-- <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /> -->
+<a href="https://app.daily.dev/jlaprs"><img src="https://api.daily.dev/devcards/v2/XuTXSiYPfvDyi0RiEwazi.png?type=wide&r=e94" width="652" alt="JlaPrs's Dev Card"/></a>
 <hr>
 
 ## Follow Me
