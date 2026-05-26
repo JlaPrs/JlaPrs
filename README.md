@@ -52,7 +52,7 @@ logo only
 
 
 ![](https://komarev.com/ghpvc/?username=JlaPrs&color=007ec6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/JlaPrs?logo=GitHub&style=for-the-badge)](https://github.com/JlaPrs) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/JlaPrs?logo=github&style=for-the-badge)](https://github.com/JlaPrs) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/JlaPrs?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/JlaPrs)
+[![GitHub followers](https://img.shields.io/github/followers/JlaPrs?logo=GitHub&style=for-the-badge)](https://github.com/JlaPrs)
 
 
 
